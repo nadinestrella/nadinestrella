@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## My projects 💻
 
-* **The Gift List**
+* **[The Gift List](https://nadinestrella.github.io/GiftList/#/)**
   
   An interactive web application designed to make gift-giving occasions a breeze for parents and a world of fun for kids.
   With "The Gift List", children have the delightful opportunity to explore various toy categories and select their top three favorites, making sure their wishes are communicated directly and efficiently to their parents.
