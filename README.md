@@ -8,7 +8,7 @@ I enjoy learning independently and from others, and I work well in teams. I am o
 Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a Junior Fullstack Developer position!! 
-- 🌱 I’m currently learning Javascript, SASS, React, Node.js 👩‍💻💥😄💥🫶💥
+- 🌱 I’m currently learning Next.js 👩‍💻💥😄💥🫶💥
 - 👯 I’m looking to collaborate on new side projects
 - 💬 Ask me about my projects
 - 📫 How to reach me: [My linkedin Profile] (https://www.linkedin.com/in/nadinestrellavacas/)
