@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 
 ## My projects 💻
 
+* **[Harry Potter](https://nadinestrella.github.io/HarryPotter/)🧙🧙**
+
+  The project consists of a web search engine for characters from the famous Harry Potter saga 🧙 🧙 🧙, where you can find a wealth of information.
+There are three types of filters:
+-By character
+-By House
+-By Gender
+Additionally, there is a reset button to return the page to its initial state.
+You can also view the details of each character by clicking on their card.
+
+
 * **[The Gift List](https://nadinestrella.github.io/GiftList/#/)🎁🎁**
   
   An interactive web application designed to make gift-giving occasions a breeze for parents and a world of fun for kids.
