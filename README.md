@@ -28,14 +28,16 @@ There are three types of filters:
 Additionally, there is a reset button to return the page to its initial state.
 You can also view the details of each character by clicking on their card.
 
+* **[My To Do List](https://nadinestrella.github.io/myToDoList/)📝**
+ This application allows you to efficiently organize and keep track of your tasks. 
+
 
 * **[The Gift List](https://nadinestrella.github.io/GiftList/#/)🎁🎁**
   
   An interactive web application designed to make gift-giving occasions a breeze for parents and a world of fun for kids.
   With "The Gift List", children have the delightful opportunity to explore various toy categories and select their top three favorites, making sure their wishes are communicated directly and efficiently to their parents.
 
-* **[My To Do List](https://nadinestrella.github.io/myToDoList/)📝**
- This application allows you to efficiently organize and keep track of your tasks. 
+
 
 ## Some technologies I use ⚙️
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
