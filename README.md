@@ -10,22 +10,16 @@ Welcome to my profile! I am a Junior Fullstack Developer based in Madrid, eager 
 
 * **[Harry Potter](https://nadinestrella.github.io/HarryPotter/) 🧙🧙**
 
-  The project consists of a web search engine for characters from the famous Harry Potter saga 🧙 🧙 🧙, where you can find a wealth of information.
-There are three types of filters:
--By character
--By House
--By Gender
-Additionally, there is a reset button to return the page to its initial state.
-You can also view the details of each character by clicking on their card.
+Web search engine for characters from the famous Harry Potter series.
 
 * **[My To Do List](https://nadinestrella.github.io/myToDoList/) 📝**
- This application allows you to efficiently organize and keep track of your tasks. 
+  
+It allows y﻿ou to efficiently organize and keep monitor  your tasks.
 
 
 * **[The Gift List](https://nadinestrella.github.io/GiftList/#/) 🎁🎁**
   
-  An interactive web application designed to make gift-giving occasions a breeze for parents and a world of fun for kids.
-  With "The Gift List", children have the delightful opportunity to explore various toy categories and select their top three favorites, making sure their wishes are communicated directly and efficiently to their parents.
+Interactive application for kids that allows them to create a gift list.
 
 
 
