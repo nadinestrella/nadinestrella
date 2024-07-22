@@ -1,3 +1,6 @@
+
+
+
 # 👋 Hi there, It's Nadine 
 
 Welcome to my profile! I am a Junior Fullstack Developer based in Madrid, eager to kickstart my career in the tech industry.
