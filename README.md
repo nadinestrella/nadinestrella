@@ -5,10 +5,10 @@
 
 Welcome to my profile! I am a Junior Fullstack Developer based in Madrid, eager to kickstart my career in the tech industry.
 
-- 💻 My tech stach is: HTML5, CSS3, JavaScript, React, Next, Tailwind, TypeScript, Node, MySql, MongoDB
-- 🌱 Feel free to take a look at my projets and do no hesitate to contact me!
-- 💃 Beyond tech, I love travelling and reading.
-- 📬 contact: nadinestrella@gmail.com 
+💻 My tech stach is: HTML5, CSS3, JavaScript, React, Next, Tailwind, TypeScript, Node, MySql, MongoDB.
+🌱 Feel free to take a look at my projets and do no hesitate to contact me!
+💃 Beyond tech, I love travelling and reading.
+📬 contact: nadinestrella@gmail.com 
 
 ## My projects 💻
 
