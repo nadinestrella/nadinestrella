@@ -26,7 +26,7 @@ Web search engine for characters from the famous Harry Potter series.
 It allows y﻿ou to efficiently organize and keep monitor  your tasks.
 
 
-* **[The Gift List](https://nadinestrella.github.io/GiftList/#/) 🎁🎁**
+* **[The Gift List](https://nadinestrella.github.io/GiftList/#/) 🎁🎁 (in progress!!)**
   
 Interactive application for kids that allows them to create a gift list.
 
