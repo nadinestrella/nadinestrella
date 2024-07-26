@@ -19,16 +19,19 @@ I am a Junior Fullstack Developer based in Madrid, eager to kickstart my career 
 * **[The Gift List](https://gift-list-eight.vercel.app/) 🎁🎁 (in progress, migrating to next!!)**
   
 Interactive application for kids that allows them to create a gift list.
+
 Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind 
 
 * **[Harry Potter](https://nadinestrella.github.io/HarryPotter/) 🧙🧙**
 
 Web search engine for characters from the famous Harry Potter series.
+
 Tech: HTML5, SASS, JavaScript, React
 
 * **[My To Do List](https://nadinestrella.github.io/myToDoList/) 📝**
   
 It allows y﻿ou to efficiently organize and keep monitor  your tasks.
+
 Tech:  HTML5, SASS, JavaScript
 
 
