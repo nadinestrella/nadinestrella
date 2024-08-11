@@ -16,6 +16,8 @@ I am a Junior Fullstack Developer based in Madrid, eager to kickstart my career 
  📬 contact: nadinestrella@gmail.com 
 
 ## My projects 💻
+* **[Portfolio](https://nadinestrella.vercel.app/)**
+  
 * **[The Gift List](https://gift-list-eight.vercel.app/) 🎁🎁 (in progress, migrating to next!!)**
   
 Interactive application for kids that allows them to create a gift list.
