@@ -1,5 +1,5 @@
 
-![banner](https://github.com/nadinestrella/nadinestrella/blob/main/banner%20.jpg?raw=true)
+![banner](https://github.com/nadinestrella/nadinestrella/blob/main/banner.jpg?raw=true)
 
 # 👋 Hi there, It's Nadine 
 
