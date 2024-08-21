@@ -18,7 +18,7 @@ I am a Junior Fullstack Developer based in Madrid, eager to kickstart my career 
 ## My projects 💻
 * **[Portfolio](https://nadinestrella.vercel.app/) 🙋‍♀️💻**
   
-Collection of some of my work and my personal information.
+Collection of some of my projects and my personal information.
 
 Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind
   
