@@ -5,7 +5,7 @@
 
 Welcome to my profile! 
 
-I am a Junior Fullstack Developer based in Madrid, eager to kickstart my career in the tech industry.
+I am a Junior Frontend Developer based in Madrid, eager to continue growing in the tech industry.
 
  💻 My tech stach is: HTML5, CSS3, JavaScript, React, Next, Tailwind, TypeScript, Node, MySql, MongoDB.
 
