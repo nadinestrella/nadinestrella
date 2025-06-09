@@ -8,10 +8,12 @@ Welcome to my profile!
 I am a Junior Frontend Developer based in Madrid, eager to continue growing in the tech industry.
 
  💻 My tech stach is: HTML5, CSS3, JavaScript, React, Next, Tailwind, TypeScript, Node, MySql, MongoDB.
+ 
+ 🤓 Learning  Angular and Testing.
 
  🌱 Feel free to take a look at my projets and do no hesitate to contact me!
 
- 💃 Beyond tech, I love travelling and reading.
+ 💃 Beyond tech, I love travelling, reading and spending time with my family.
 
  📬 contact: nadinestrella@gmail.com 
 
