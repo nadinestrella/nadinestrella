@@ -57,7 +57,8 @@ Tech:  HTML5, SASS, JavaScript
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-
+![Github Aplanet 1](https://github.com/nadinestrella/nadinestrella/blob/main/Github Aplanet 1.jpg?raw=true)
+![Github Aplanet 2](https://github.com/nadinestrella/nadinestrella/blob/main/Github Aplanet 2.jpg?raw=true)
 
 
 
