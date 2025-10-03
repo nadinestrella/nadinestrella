@@ -30,7 +30,7 @@ Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
  
  Tech: HTML5, JavaScript, Vue, Vite, NodeJS, CSS.
   
-* **[The Gift List](https://gift-list-eight.vercel.app/) 🎁🎁 **
+* **[The Gift List](https://gift-list-eight.vercel.app/) 🎁🎁**
   
 Interactive application for kids that allows them to create a gift list.
 
