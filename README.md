@@ -24,7 +24,7 @@ Collection of some of my projects and my personal information.
 
 Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
 
-* **[Poke-app](https://nadinestrella.github.io/poke-app/all) 💥VUE PROJECT💥**
+* **[Poke-app](https://nadinestrella.github.io/poke-app/) 💥VUE PROJECT💥**
 
  “A Pokémon app where you can search, view details, and build your own team of Pokémon.”
  
