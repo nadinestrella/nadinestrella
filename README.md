@@ -27,7 +27,8 @@ Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
 * **[Poke-app](https://nadinestrella.github.io/poke-app/all) 💥VUE PROJECT💥**
 
  “A Pokémon app where you can search, view details, and build your own team of Pokémon.”
-Tech: HTML5, JavaScript, Vue, Vite, NodeJS, CSS.
+ 
+ Tech: HTML5, JavaScript, Vue, Vite, NodeJS, CSS.
   
 * **[The Gift List](https://gift-list-eight.vercel.app/) 🎁🎁 **
   
