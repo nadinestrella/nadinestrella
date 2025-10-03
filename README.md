@@ -22,25 +22,30 @@ I am a Junior Frontend Developer based in Madrid, eager to continue growing in t
   
 Collection of some of my projects and my personal information.
 
-Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind
+Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
+
+* **[Poke-app](https://nadinestrella.github.io/poke-app/all) 💥VUE PROJECT💥**
+
+ “A Pokémon app where you can search, view details, and build your own team of Pokémon.”
+Tech: HTML5, JavaScript, Vue, Vite, NodeJS, CSS.
   
-* **[The Gift List](https://gift-list-eight.vercel.app/) 🎁🎁 (in progress, migrating to next!!)**
+* **[The Gift List](https://gift-list-eight.vercel.app/) 🎁🎁 **
   
 Interactive application for kids that allows them to create a gift list.
 
-Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind 
+Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
 
 * **[Harry Potter](https://nadinestrella.github.io/HarryPotter/) 🧙🧙**
 
 Web search engine for characters from the famous Harry Potter series.
 
-Tech: HTML5, SASS, JavaScript, React
+Tech: HTML5, SASS, JavaScript, React.
 
 * **[My To Do List](https://nadinestrella.github.io/myToDoList/) 📝**
   
 It allows y﻿ou to efficiently organize and keep monitor  your tasks.
 
-Tech:  HTML5, SASS, JavaScript
+Tech:  HTML5, SASS, JavaScript.
 
 
 
