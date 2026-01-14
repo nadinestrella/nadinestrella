@@ -7,7 +7,7 @@ Welcome to my profile!
 
 I am a Junior Frontend Developer based in Madrid, eager to continue growing in the tech industry.
 
- 💻 My tech stach is: HTML5, CSS3, JavaScript, React, Next, Tailwind, TypeScript, Node, MySql, MongoDB.
+ 💻 My tech stach is: HTML5, CSS3, JavaScript, React, Vue, Angular, Next, Tailwind, TypeScript, Node, MySql, MongoDB.
  
  🤓 Learning  Angular and Testing.
 
@@ -23,6 +23,12 @@ I am a Junior Frontend Developer based in Madrid, eager to continue growing in t
 Collection of some of my projects and my personal information.
 
 Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
+
+* **[Ask the Weather](https://nadinestrella.github.io/askTheWeather/) ☁️**
+  
+AskTheWeather is a web application that allows you to check the current weather and forecast for a city using the free OpenMeteo API.
+ 
+Tech: HTML5, JavaScript, React, Vite, NodeJS, CSS.
 
 * **[Poke-app](https://nadinestrella.github.io/poke-app/) 💥VUE PROJECT💥**
 
