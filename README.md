@@ -24,6 +24,12 @@ Collection of some of my projects and my personal information.
 
 Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
 
+* **[Atelier Shop](https://github.com/nadinestrella/atelier-shop/) 🛍️**
+  
+*IN PROGRESS* Development of a small online store using React, Next.js, Tailwind CSS and TypeScript.
+ 
+Tech: HTML5, JavaScript, React, Next.js, Tailwind CSS and TypeScript.
+
 * **[Ask the Weather](https://nadinestrella.github.io/askTheWeather/) ☁️**
   
 AskTheWeather is a web application that allows you to check the current weather and forecast for a city using the free OpenMeteo API.
