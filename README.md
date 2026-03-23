@@ -24,7 +24,7 @@ Collection of some of my projects and my personal information.
 
 Tech: HTML5, JavaScript, React, NextJS, TypeScript, NodeJS, Tailwind.
 
-* **[Atelier Shop](https://github.com/nadinestrella/atelier-shop/) 🛍️**
+* **[Atelier Shop](https://atelier-shop.vercel.app/) 🛍️**
   
 *IN PROGRESS* Development of a small online store using React, Next.js, Tailwind CSS and TypeScript.
  
